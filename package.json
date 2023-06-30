@@ -1,10 +1,21 @@
 {
-  "name": "material-doc-colors",
+  "name": "material-doc",
   "displayName": "Material Doc Colors",
   "description": "Use the same colors of the code in Angular Material's documentation",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
+  },
+  "icon": "icons/mat.png",
+  "author": {
+    "name": "Francky Iside",
+    "email": "francky@tuta.io",
+    "url": "https://www.linkedin.com/in/franckyiside/"
+  },
+  "publisher": "FranckyIside",
+  "repository": {
+    "url": "https://gitlab.com/franckyiside/material-doc-vs-code-theme",
+    "type": "git"
   },
   "categories": [
     "Themes"
