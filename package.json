@@ -1,0 +1,21 @@
+{
+  "name": "material-doc-colors",
+  "displayName": "Material Doc Colors",
+  "description": "Use the same colors of the code in Angular Material's documentation",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Doc Colors",
+        "uiTheme": "vs",
+        "path": "./themes/material-doc-colors-color-theme.json"
+      }
+    ]
+  }
+}
