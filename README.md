@@ -1,16 +1,11 @@
 # material-doc-colors README
 
-## Working with Markdown
+## Description
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A theme extension for [Visual Studio Code](https://code.visualstudio.com) based on **Angular Material Documentation** colors by [Google](<[https://www.jetbrains.com](https://material.angular.io/)>).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Setting
 
-## For more information
+- When installation completes, select **Angular Material Documentation - Light** as your color theme (Preferences → Theme → Color Theme → **Angular Material Documentation - Light**)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**Happy coding!**
