@@ -9,4 +9,8 @@ The theme is currently optimized for Angular/TypeScript/Material and is availabl
 
 - When installation completes, select **Angular Material Documentation - Light** as your color theme (Preferences → Theme → Color Theme → **Angular Material Documentation - Light**)
 
+## Preview
+
+![Sample light](img/light.png)
+
 **Happy coding!**

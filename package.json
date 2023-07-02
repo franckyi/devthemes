@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.79.0"
   },
-  "icon": "icons/mat.png",
+  "icon": "img/mat.png",
   "author": {
     "name": "Francky Iside",
     "email": "francky@tuta.io",
