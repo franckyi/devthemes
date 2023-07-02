@@ -1,8 +1,8 @@
 {
   "name": "material-doc",
-  "displayName": "Angular Material Doc Colors",
+  "displayName": "Angular Material Documentation Colors",
   "description": "Use the same colors of the code in Angular Material's documentation",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -23,14 +23,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Material Doc Colors - Light",
+        "label": "Angular Material Documentation Colors - Light",
         "uiTheme": "vs",
         "path": "./themes/material-doc-colors-light.json"
-      },
-      {
-        "label": "Material Doc Colors - Dark",
-        "uiTheme": "vs",
-        "path": "./themes/material-doc-colors-dark.json"
       }
     ]
   }
