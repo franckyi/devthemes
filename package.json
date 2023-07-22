@@ -1,20 +1,21 @@
 {
-  "name": "material-doc",
-  "displayName": "Angular Material Documentation Colors",
-  "description": "Use the same colors of the code in Angular Material's documentation",
-  "version": "0.0.5",
+  "name": "dev-themes-francky-iside",
+  "displayName": "DevThemes pack",
+  "description": "Color themes inspired by popular devtools and docs",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.79.0"
   },
-  "icon": "img/mat.png",
+  "license": "MIT",
+  "icon": "img/logo.png",
   "author": {
     "name": "Francky Iside",
-    "email": "francky@tuta.io",
+    "email": "hello@franckyiside.eu",
     "url": "https://www.linkedin.com/in/franckyiside/"
   },
   "publisher": "FranckyIside",
   "repository": {
-    "url": "https://gitlab.com/franckyiside/vsc-theme-material-documentation/",
+    "url": "https://gitlab.com/franckyiside/vsc-devthemes",
     "type": "git"
   },
   "categories": [
@@ -23,9 +24,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Angular Material Documentation Colors - Light",
+        "label": "Angular Material Doc (Francky Iside)",
         "uiTheme": "vs",
-        "path": "./themes/material-doc-colors-light.json"
+        "path": "./themes/material-doc.json"
+      },
+      {
+        "label": "Firefox devtools (Francky Iside)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/firefox.json"
       }
     ]
   }

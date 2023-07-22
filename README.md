@@ -1,16 +1,17 @@
-# material-doc-colors README
+# dev-themes-francky-iside README
 
 ## Description
 
-A theme extension for [Visual Studio Code](https://code.visualstudio.com) based on **Angular Material Documentation** colors by [Google](<[https://www.jetbrains.com](https://material.angular.io/)>).
-The theme is currently optimized for Angular/TypeScript/Material and is available the light version. The dark version is on my todo list.
+A collection of low eye strain color themes for [Visual Studio Code](https://code.visualstudio.com).
 
 ## Setting
 
-- When installation completes, select **Angular Material Documentation - Light** as your color theme (Preferences → Theme → Color Theme → **Angular Material Documentation - Light**)
+- When installation completes, select one of the themes followed by '(Francky Iside)'. Or alternatively go to Preferences → Theme → Color Theme → then choose for example **Angular Material Doc (Francky Iside)**
 
 ## Preview
 
-![Sample light](img/light.png)
+![Sample light](img/material.png)
 
+Your feedback is welcome!
+Please rate and..
 **Happy coding!**
